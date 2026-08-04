@@ -28,6 +28,20 @@ sigan usando el fin de semana siguiente.
 
 ## En qué estoy trabajando
 
+### [Nocta](https://www.nocta.com.ar) · entradas y barra para boliches
+
+Producto que armamos con un amigo y que hoy está en producción. El boliche vende
+las entradas online y el cliente entra mostrando un **QR** desde el celular; en
+la barra pasa lo mismo, así que se saltea la cola de la caja. La plata va
+directo a la cuenta de **Mercado Pago** del local, que además ve sus números en
+vivo y controla el ingreso desde la puerta.
+
+<p>
+  <img src="docs/nocta.jpg" alt="Nocta" width="74%">
+</p>
+
+`Next.js` · `Mercado Pago` · `Vercel` — 🌐 **[nocta.com.ar](https://www.nocta.com.ar)**
+
 ### [vladimir-web](https://github.com/gabrieldino16/vladimir-web) · sitio para un fotógrafo
 
 Web para un cliente, con dos funciones que le resuelven el día a día: un panel
@@ -60,6 +74,16 @@ uno por uno. Manda las teclas por códigos de escaneo, así funciona con cualqui
 distribución de teclado y en programas que ignoran los métodos más simples.
 
 `Python` · `tkinter` · `WinAPI` · `PyInstaller`
+
+## En la facultad
+
+### [Gestión de bares](https://github.com/Tariima/TPIP3) · trabajo integrador de Programación III
+
+Sistema de gestión para bares hecho **en equipo**, de a cuatro: mesas, pedidos y
+la operación del salón. Fue mi primer proyecto trabajando sobre el repositorio de
+otra persona, con ramas y revisiones de por medio en lugar de programar solo.
+
+`JavaScript` · `React`
 
 ---
 
