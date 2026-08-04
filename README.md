@@ -68,3 +68,5 @@ distribución de teclado y en programas que ignoran los métodos más simples.
     <img alt="Email" src="https://img.shields.io/badge/gabrieldino16@gmail.com-EA4335?logo=gmail&logoColor=white">
   </a>
 </p>
+
+<!-- Perfil de GitHub: este archivo se muestra en github.com/gabrieldino16 -->
