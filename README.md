@@ -42,18 +42,21 @@ vivo y controla el ingreso desde la puerta.
 
 `Next.js` · `Mercado Pago` · `Vercel` — 🌐 **[nocta.com.ar](https://www.nocta.com.ar)**
 
-### [vladimir-web](https://github.com/gabrieldino16/vladimir-web) · sitio para un fotógrafo
+### [Nicolás Piña](https://github.com/gabrieldino16/web-nicolas_pina) · sitio para un fotógrafo
 
 Web para un cliente, con dos funciones que le resuelven el día a día: un panel
 privado donde arma **presupuestos en PDF** en menos de un minuto, y una página
 de beneficios a la que solo se llega **escaneando el QR** de sus tarjetas
-personales. Las galerías se leen de su cuenta de SmugMug, así que sube las fotos
-como siempre y la web se actualiza sola.
+personales. Las galerías se leen de su cuenta de SmugMug —y se abren por
+disciplina en la sección de deportes—, así que sube las fotos como siempre y la
+web se actualiza sola.
 
 <p>
-  <img src="https://raw.githubusercontent.com/gabrieldino16/vladimir-web/main/docs/capturas/inicio.jpg" alt="Portada del sitio" width="49%">
-  <img src="https://raw.githubusercontent.com/gabrieldino16/vladimir-web/main/docs/capturas/presupuesto-pdf.jpg" alt="Presupuesto en PDF" width="24%">
+  <img src="https://raw.githubusercontent.com/gabrieldino16/web-nicolas_pina/main/docs/capturas/inicio.jpg" alt="Portada del sitio" width="49%">
+  <img src="https://raw.githubusercontent.com/gabrieldino16/web-nicolas_pina/main/docs/capturas/presupuesto-pdf.jpg" alt="Presupuesto en PDF" width="24%">
 </p>
+
+<sub>Capturas del mismo sistema ya publicado para otro estudio, con su identidad.</sub>
 
 `Next.js` · `TypeScript` · `Tailwind` · `jsPDF` · `Vercel`
 
