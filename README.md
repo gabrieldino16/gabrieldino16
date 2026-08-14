@@ -23,14 +23,14 @@ programa que salía demasiado caro o de algo que un cliente necesitaba y no
 existía.
 
 Eso hace que mis proyectos tengan un usuario real desde el primer día —a veces
-soy yo, a veces alguien que me paga— y que la prueba de que funcionan sea que se
+soy yo, a veces alguien que me contrata— y que la prueba de que funcionan sea que se
 sigan usando el fin de semana siguiente.
 
 ## En qué estoy trabajando
 
-### [Nocta](https://www.nocta.com.ar) · entradas y barra para boliches
+### [Nocta](https://www.nocta.com.ar) · entradas y compras en barra automatizadas.
 
-Producto que armamos con un amigo y que hoy está en producción. El boliche vende
+Producto que armamos con un amigo y que hoy está en producción. El lugar vende
 las entradas online y el cliente entra mostrando un **QR** desde el celular; en
 la barra pasa lo mismo, así que se saltea la cola de la caja. La plata va
 directo a la cuenta de **Mercado Pago** del local, que además ve sus números en
